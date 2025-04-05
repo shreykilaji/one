@@ -1,1 +1,2 @@
 Test FILE 2
+Adding content to file 2
