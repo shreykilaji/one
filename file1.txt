@@ -1,2 +1,2 @@
 Test FILE 1 
- content added in file 1
+ content added in file in second branch
